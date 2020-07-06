@@ -138,14 +138,14 @@ body {
 }
 
 #app {
-  background-image: url("./assets/cold-bg.jpg");
+  background-image: url("./assets/normal-bg.jpeg");
   background-size: contain;
   background-position: center;
   transition: 0.4s;
 }
 
 #app.warm {
-  background-image: url("./assets/warm-bg.jpg");
+  background-image: url("./assets/warm-bg.png");
 }
 
 main {

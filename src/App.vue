@@ -138,7 +138,7 @@ body {
 }
 
 #app {
-  background-image: url("./assets/normal-bg.jpeg");
+  background-image: url("./assets/cold-bg.jpeg");
   background-size: contain;
   background-position: center;
   transition: 0.4s;

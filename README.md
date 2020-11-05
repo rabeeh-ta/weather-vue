@@ -1,4 +1,4 @@
-## [Visit Site](https://weather-rbh.netlify.app/)
+## [website](https://weather-rbh.netlify.app/)
 
 ### Things i have added
 

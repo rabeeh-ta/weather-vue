@@ -1,10 +1,4 @@
-# vue-weather
-
-## Project setup
-
-```
-npm install
-```
+##[Visit Site](https://weather-rbh.netlify.app/)
 
 ### Things i have added
 
